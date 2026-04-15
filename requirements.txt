@@ -8,10 +8,9 @@ cycler
 debugpy
 decorator
 einops==0.8.1
-executing==2.2.1
-frozenlist==1.8.0
-ftfy==6.3.1
-gitdb==4.0.12
+frozenlist
+ftfy
+gitdb
 GitPython==3.1.45
 gpustat==1.1.1
 hf-xet==1.2.0
