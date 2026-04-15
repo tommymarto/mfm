@@ -1,13 +1,13 @@
 accelerate==1.12.0
-aiohappyeyeballs==2.5.0
-aiohttp==3.13.2
-aiosignal==1.4.0
+aiohappyeyeballs
+aiohttp
+aiosignal
 annotated-types==0.7.0
 antlr4-python3-runtime==4.9.3
 asttokens==3.0.1
 attrs==25.4.0
 blessed==1.25.0
-certifi==2025.11.12
+certifi
 charset-normalizer==3.4.4
 click==8.3.1
 comm==0.2.3
