@@ -64,7 +64,7 @@ psutil
 ptyprocess
 pure_eval
 pydantic
-pydantic_core=
+pydantic_core
 Pygments
 pyparsing
 python-dateutil==2.9.0.post0
