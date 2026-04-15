@@ -25,7 +25,7 @@ jedi
 Jinja2
 kiwisolver
 lightning==2.6.0.dev20251019
-lightning-utilities==0.15.2
+lightning-utilities
 MarkupSafe
 matplotlib==3.10.7
 matplotlib-inline==0.2.1
@@ -82,7 +82,7 @@ six==1.17.0
 smmap==5.0.2
 stack-data==0.6.3
 sympy==1.14.0
-threadpoolctl==3.6.0
+threadpoolctl
 timm==1.0.22
 torch==2.9.1
 torch-ema==0.3
@@ -91,12 +91,12 @@ torchdiffeq==0.2.5
 torchmetrics==1.8.2
 torchsummary==1.5.1
 torchvision==0.24.1
-tornado==6.5.2
-tqdm==4.67.1
-traitlets==5.14.3
+tornado
+tqdm
+traitlets
 triton==3.5.1
-typing-inspection==0.4.2
-typing_extensions==4.15.0
+typing-inspection
+typing_extensions
 urllib3==2.5.0
 wandb==0.23.0
 wcwidth==0.2.14
