@@ -84,31 +84,31 @@ stack-data
 sympy
 threadpoolctl
 timm==1.0.22
-torch==2.9.1
+torch
 torch-ema==0.3
-torch-utils==0.1.2
+torch-utils
 torchdiffeq==0.2.5
 torchmetrics==1.8.2
 torchsummary==1.5.1
-torchvision==0.24.1
+torchvision
 tornado
 tqdm
 traitlets
-triton==3.5.1
+triton
 typing-inspection
 typing_extensions
-urllib3==2.5.0
-wandb==0.23.0
-wcwidth==0.2.14
-wheel==0.45.1
-yarl==1.22.0
-zipp==3.23.0
+urllib3
+wandb
+wcwidth
+wheel
+yarl
+zipp
 diffusers @ git+https://github.com/huggingface/diffusers@af28ae2d5ba0ef80d99fff7859ebea730e1cf3f8
 transformers==4.50.1
 image-reward @ git+https://github.com/THUDM/ImageReward.git@2ca71bac4ed86b922fe53ddaec3109fe94d45fd3
 hpsv2 @ git+https://github.com/tgxs002/HPSv2.git
 clip
-dreamsim==0.2.1
-peft==0.17.1
+dreamsim
+peft
 imscore
 image-reward
