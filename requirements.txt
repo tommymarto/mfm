@@ -103,12 +103,6 @@ wcwidth
 wheel
 yarl
 zipp
-diffusers @ git+https://github.com/huggingface/diffusers@af28ae2d5ba0ef80d99fff7859ebea730e1cf3f8
-transformers==4.50.1
-image-reward @ git+https://github.com/THUDM/ImageReward.git@2ca71bac4ed86b922fe53ddaec3109fe94d45fd3
-hpsv2 @ git+https://github.com/tgxs002/HPSv2.git
+diffusers
+transformers
 clip
-dreamsim
-peft
-imscore
-image-reward
